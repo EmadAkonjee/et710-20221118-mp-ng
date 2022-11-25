@@ -1,0 +1,75 @@
+#container{
+	margin:auto;
+	width:1500px;
+}
+
+.content {
+    padding: 16px;
+  }
+  #transpobus{
+	float:right;
+}
+#transpobus li{
+	margin-right:30px;
+	margin-bottom:70px;
+	margin-top:30px;
+	
+	display:inline-block;
+	
+}
+#transpobus li a{
+	font-size: 30px;
+	background-color: #17252A;
+	border: solid thin;
+	border-radius: 0px;
+	padding: 15px;
+	color: #C98947;
+	text-decoration:none;
+}
+#panel{
+	margin-top:0px;
+	background-color:#0D1517;
+	
+}
+#panel ol li{
+	margin-top:20px;
+}
+#navigatepage h2, form h3, #contactinfo h3{
+	color: #2B7A7B;
+}
+#navigatepage h3, #funfacttab h3, #pagestips h3, #demogcopy h3{
+	color:#D4FFFF;
+}
+#navigatepage p {
+	color:#839392;
+	font-size:20px;
+}
+#navigatepage a:hover, a:hover, #footer a:hover, a:hover, #funfacttab a:hover{
+	color:#2B7A7B;
+	background-color:#FEFFFF;
+}
+#navigatepage a, .activityblock .activitycontent a, #footer a, #demogcopy a, #funfacttab a{
+	color:#3AAFA9;
+}
+.navpagemore{
+	margin-bottom:25px;
+}
+.span{
+	color:#2B7A78;
+	font-weight:bold;
+	font-size:19px;
+	
+}
+.spanint{
+	font-weight:bold;
+}
+#footer{
+	clear:both;
+	background-color:#0E1619;
+	color:#3A3E3F;
+	text-align:center;
+	padding:20px;
+	font-size:20px;
+	position:relative;
+	top:20px;
+}

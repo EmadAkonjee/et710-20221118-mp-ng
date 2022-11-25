@@ -1,0 +1,68 @@
+#container{
+	margin:auto;
+	width:1500px;
+}
+
+.content {
+    padding: 16px;
+  }
+
+  .landmark, #activ{
+	margin-left:427px;
+}
+.landmarkblock, .parkblock{
+	border: solid #309FBA thin;
+	border-radius:5px;
+	height:375px;
+	margin-top:25px;
+	margin-bottom:20px;
+	width: 73%;
+	float:right;
+
+}
+.commerceblock{
+	border-bottom: solid #309FBA thin;
+	height:375px;
+	margin-top:25px;
+	margin-bottom:20px;
+	width: 73%;
+	float:right;
+}
+.landmarkblock h3, .parkblock h3, .commerceblock h3{
+	color:#C98947;
+	font-size:20px;
+	margin-left:15px;
+}
+.landimg, .parkimg, .comimage{
+	border-radius:5px;
+	float:left;
+	margin-left:15px;
+}
+.landmarkblock p, .parkblock p, .commerceblock p{
+	float:right;
+	width: 65%;
+	position:relative;
+
+	bottom:60px;
+}
+.parkblock p{
+	margin-top:40px;
+}
+#funfacttab h3, #pagestips h3{
+	text-align:justify;
+}
+#funfacttab h2, #pagestips h2{
+	color: #38AAA7;
+	text-shadow: 9px 0px 8px #000000;
+	font-size: 30px;
+}
+#footer{
+	clear:both;
+	background-color:#0E1619;
+	color:#3A3E3F;
+	text-align:center;
+	padding:20px;
+	font-size:20px;
+	position:relative;
+	top:20px;
+}

@@ -1,0 +1,53 @@
+#container{
+	margin:auto;
+	width:1500px;
+		
+}
+
+.content {
+    padding: 16px;
+}
+
+#container #briefhistory h2, #navigatepage h3, #funfacttab h3 {
+        color:#D4FFFF;
+    }
+    #briefhistory h2{
+        font-size:30px;
+    }
+    #container #briefhistory p, #navigatepage p {
+        color:#839392;
+        font-size:20px;
+    }
+    
+    #navigatepage a, #briefhistory a, #footer a{
+        color:#3AAFA9;
+    }
+    #navigatepage a:hover, #briefhistory a:hover, #footer a:hover{
+        color:#2B7A7B;
+        background-color:#FEFFFF;
+    }
+    #briefhistory{
+        float:right;
+        width:70%;
+        clear:left;
+        text-align:justify;
+    }
+    #panel ol li img {
+        display:block;
+    }
+    #panel{
+        margin-top:0px;
+        background-color:#0D1517;
+    }
+    #panel ol li{
+        margin-top:20px;
+    }
+    
+    #footer{
+        clear:both;
+        background-color:#0E1619;
+        color:#3A3E3F;
+        text-align:center;
+        padding:20px;
+        font-size:20px;
+    }

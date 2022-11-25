@@ -1,0 +1,47 @@
+#container{
+	margin:auto;
+	width:1500px;
+}
+
+.content {
+    padding: 16px;
+  }
+
+  #panel{
+	margin-top:0px;
+	background-color:#0D1517;
+	
+}
+#info{
+	float:right;
+	width:65%;
+}
+#geography h2, #location h2, form h2, h2.landmark, h2#activ, #contactinfo h2, #demogcopy h2, #housing h2, #transpobus h2 {
+	color:#D4FFFF;
+	font-size: 30px;
+}
+
+#geography p, navigatepage h2, #navigatepage p, #location p, form p, .landmarkblock p, .parkblock p, .activitycontent, .more, #demogcopy p, #housing p , .commerceblock p, #transpobus p{
+	color:#839392;
+	font-size:20px;
+}
+#navigatepage, #funfacttab, #pagestips{
+	width: 350px;
+	border-bottom: dotted #17252A 2px;
+	padding-left:20px;
+	padding-right:20px;	
+	padding-top:10px;
+	padding-bottom:20px;
+	opacity:60%;
+
+}
+#footer{
+	clear:both;
+	background-color:#0E1619;
+	color:#3A3E3F;
+	text-align:center;
+	padding:20px;
+	font-size:20px;
+	position:relative;
+	top:20px;
+}

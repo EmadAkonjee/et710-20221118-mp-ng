@@ -1,0 +1,56 @@
+#container{
+	margin:auto;
+	width:1500px;
+}
+
+.content {
+    padding: 16px;
+  }
+
+  .subbutton:hover{
+	background-color: #2B7A78;
+	color: #17252A;	
+}
+.resbutton{
+	font-size: 15px;
+	background-color: #17252A;
+	border: solid thin;
+	border-radius: 0px;
+	padding: 15px;
+	color: #C98947;	
+}
+.resbutton:hover, .resbutton1:hover{
+	background-color: #C98947;
+	color:#17252A;
+}
+.resbutton1{
+	font-size:14px;
+	border-radius:0px;
+	border:solid thin;
+	background-color:#17252A;
+	color:#C98947;
+	padding:15px;
+}
+
+#contactinfo{
+	float:right;
+	width:40%;
+	text-align:center;
+}
+#contactinfo p{
+	border-bottom:#284049 solid thin;
+	padding:10px;
+	color:#839392;
+	font-size:15px;
+}
+#footer{
+	clear:both;
+	background-color:#0E1619;
+	color:#3A3E3F;
+	text-align:center;
+	padding:20px;
+	font-size:20px;
+	position:relative;
+	top:20px;
+}
+

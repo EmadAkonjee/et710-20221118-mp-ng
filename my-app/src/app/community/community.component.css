@@ -1,0 +1,36 @@
+#container{
+	margin:auto;
+	width:1500px;
+}
+
+.content {
+    padding: 16px;
+  }
+  #housing{
+	float:right;
+	width:70%;
+}
+.housepic{
+	border:thin white double;
+	padding:5px;
+	border-radius:5px;
+	
+}
+#housegallery{
+	display:block;
+	margin-left:40px;
+	border-spacing:10px;
+}
+#funfacttab h3, #pagestips h3{
+	text-align:justify;
+}
+#footer{
+	clear:both;
+	background-color:#0E1619;
+	color:#3A3E3F;
+	text-align:center;
+	padding:20px;
+	font-size:20px;
+	position:relative;
+	top:20px;
+}
